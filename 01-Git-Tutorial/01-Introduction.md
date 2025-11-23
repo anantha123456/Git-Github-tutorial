@@ -91,8 +91,5 @@ With Git → Separate branches,  Safe
 | Merge             | Combining branches     |  
 
 
-##  Interview Answer (Short)
-
-**Git is a distributed version control system used to track code changes, collaborate with teams, and maintain version history.**
 
 
