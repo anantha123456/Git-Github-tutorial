@@ -4,10 +4,10 @@
 Git is a **Distributed Version Control System (DVCS)** used to track changes in files and source code during software development.
 
 It helps developers:
-✅ Save different versions of code  
-✅ Revert back to older versions  
-✅ Work in teams without conflicts  
-✅ Maintain a history of changes  
+- Save different versions of code  
+- Revert back to older versions  
+- Work in teams without conflicts  
+- Maintain a history of changes  
 
 
 ##  Why Do We Need Git?
